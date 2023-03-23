@@ -21,7 +21,7 @@ Digital Attendance System is a digital attendace management desktop application 
 
 ## Run Locally (Development Environment) ⚒️
 
-#### Clone the repository to "Local disk C:" and navigate to  [Ditigal-Attendance-System/release/access.exe](release/access.exe) 
+#### Clone the repository to "Local disk C:" and navigate to  "Ditigal-Attendance-System/release/access.exe" 
 
 
 ## Tech and Tools Used 💻
@@ -34,9 +34,10 @@ Digital Attendance System is a digital attendace management desktop application 
 ## Screenshots 
 
 <div align="center">
-  <img src="src/app-images/Homescreen.jpeg" height=450 />
-  <img src="src/app-images/EventCreate.jpeg" height=450 />
-  <img src="src/app-images/UserDashboard.jpg" height=400 />
+  <img src="screenshots/AddRemoveTeachers.jpg" height=300 width=500/>
+  <img src="screenshots/StudentDetails.jpg" height=300 width=500/>
+  <img src="screenshots/Attendance.jpg" height=400 width=500/>
+  <img src="screenshots/AddGroup.jpg" height=400 width=500/>
 </div>
 
 ## Contributions
