@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="src/app-images/logo.jpeg" width=120px/>
+    <img src="screenshots/Logo.jpg" width=120px/>
 </h1>
 <h3 align="center">
     <b>Digital Attendance System - An easy approach to make attendance system digitized</b>
